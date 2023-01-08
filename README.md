@@ -9,4 +9,4 @@ Para utilizá-lo basta apenas adicionar sua chave do TMDB no arquivo [/lib/core/
 https://github.com/lucasfernandodeon/tmdb/blob/main/lib/core/key.dart
 ).
 
-# tmdb
+
