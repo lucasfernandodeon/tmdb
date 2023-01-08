@@ -1,17 +1,12 @@
 # tmdb
 
-A new Flutter project.
+Projeto TMDB.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Projeto que utiliza o TMDB para buscar os últimos filmes cartaz bem como seus detalhes.
+Para utilizá-lo basta apenas adicionar sua chave do TMDB no arquivo [/lib/core/key.dart](
+https://github.com/lucasfernandodeon/tmdb/blob/main/lib/core/key.dart
+).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # tmdb
